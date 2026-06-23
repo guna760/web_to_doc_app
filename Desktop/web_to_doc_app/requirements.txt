@@ -9,3 +9,4 @@ lxml
 pypdf
 markdown
 numpy
+reportlab
