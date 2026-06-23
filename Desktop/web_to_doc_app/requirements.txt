@@ -1,6 +1,11 @@
-streamlit==1.40.2
-requests==2.31.0
-beautifulsoup4==4.12.3
-python-docx==1.1.0
-reportlab==4.1.0
-pip install -r requirements.txt
+streamlit
+openai
+python-docx
+pandas
+requests
+python-dotenv
+beautifulsoup4
+lxml
+pypdf
+markdown
+numpy
