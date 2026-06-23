@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#FF4B4B"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#262730"
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[server]
+# Allows processing larger web layouts if needed
+maxUploadSize = 200 
+# Headless mode prevents your browser from opening new tabs every time you save your code
+headless = true
+
+[client]
+# Hides unnecessary UI bars for a cleaner user experience
+toolbarMode = "minimal"
